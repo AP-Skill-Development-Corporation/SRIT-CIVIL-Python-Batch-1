@@ -1,0 +1,103 @@
+Day-01[24-01-2022]:
+===================
+	Good Morning to All...
+
+Python Version Check:
+=====================
+	> cmd
+	> python -V
+
+Python Download:
+================
+	> open browser
+	> search for python.org
+	> Need to place cursor on Downloads
+	> Choose windows and click on it
+	> It navigates to download link and displays as Python releases and with 2 columns
+		- stable
+		- prerelease
+	> In that we need to select stable releases only
+	> Press cntrl + f and type python of which version you need to download
+	> In that we need to check the bit of our operating systems based on that we need to select the executeable installers only.
+
+Python Installation:
+====================
+	> After Downloading we need to double tap the software it will displays the window with some dialogue to accept the sotware installation
+	> It will displays 2 options and 2 checkboxes
+		options:
+		--------
+		> install now
+			- It installs to default directory that is displayed in install now
+			i.e.,[c:\users\username\AppData\Local\Programs\Python\Python3x\]
+		> custom installation
+			- It will installs based on user defined folder location
+		Checkboxes:
+		-----------
+		> User permissions
+		> Add python 3x to path
+	> We need to select both the checkboxes and click on install now option to install the python in your systems
+
+Python Not Found:
+=================
+	> Python is not installed 
+	> Two or more version are installed
+	> Path is not set in environment variables
+	> In installation we didnt selected the add python to path option
+
+Ways to Execute the Python Programs:
+====================================
+	> Basic Procedure
+	> Advanced Editors
+	> IDLE
+	> Jupyter Notebook
+
+	Basic Procedure:
+	================
+	- In this we need to type the python code by using basic editor i.e., Notepad
+	- After completion of writing program in notepad we need to execute the program for that we need Interpreter
+	- We need to navigate for particular folder where the python file is existed and open that path by using command prompt
+	- To execute the program we need to pass the command i.e.,
+		> filename.py
+			or
+		> python filename.py
+	- It will displays the output in command prompt
+
+	Advanced Editor:
+	================
+	- To write a code we are trying to use advanced editors to decrease user work and user interfaces with some other features
+	- Advanced Editors like geany,sublime,atom,editplus,Notepad++, etc.,
+	- We need to write a code and try to save the file and execute by using the editors shortcuts
+	- The program output will be displayed by using command prompt.
+
+	IDLE[Integrated Development Learning Environment]:
+	==================================================
+	- While installing python IDLE will be existed
+	- Try to open the idle then it will propmts as python shell
+	- Here we can code the temporary code and check the output in shell itself
+	- We have another option also to code permanent code by using file
+	- While clicking on file of shell menu we need to create a new file and try to code in that file
+	- After coding we need to execute the file by using f5 or else we need to select the run menu
+	- The output will be displayed in the python shell
+
+	Jupyter Notebook:
+	=================
+	- Before running jupyter notebook first we need to check the pip version
+	
+	Pip:
+	====  
+	> Pip is a command used to install the third party packages in out local systems
+	> pip version check in command prompt
+		-> pip -V
+	> If the version is not displaying then we need to set the scripts folder path that is existed inside of python path location to environment variables
+	
+	- To install the jupyter we need to type the command as 
+		> cmd
+		> pip install jupyter notebook
+	- If any warning then we need to pass the command in command prompt to upgrade the pip version
+		> python -m pip install --upgrade pip
+	- After upgrading of pip then we need to install jupyter notebook then it will installs into our systems
+	- To run the jupyter notebook we need to pass the command 
+		> cmd
+		> jupyter notebook
+
+
