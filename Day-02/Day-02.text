@@ -1,0 +1,63 @@
+Day-02[25-01-2022]:
+===================
+	Good Morning to All..
+
+Literate programming:
+=====================
+	> combination of coding format and markdown format.
+
+Modes:
+======
+	> In jupyter it consists of 2 formats i.e.,
+		-> Code
+		-> Markdown
+	> For each formats it consists of 2 modes i.e.,
+		-> edit mode => green color 
+		-> code mode => blue color
+
+Jupyter Notebook Shortcuts:
+===========================
+	- esc + m => Markdown format
+	- esc + y => Code format
+	- esc + d,d => delete a cell
+	- esc + a => insert cell above
+	- esc + b => insert cell below
+	- shift + enter => run cell and select below
+	- cntrl + ? => for comment and uncomment
+	- cntrl + c => copy
+	- cntrl + v => paste
+	- cntrl + x => cut
+	- cntrl + s => save
+
+Python Basics:
+==============
+	=> Variable:
+	============
+		> To store a value
+		> To change a value
+
+	=> Data types:
+	==============
+		> int -> It allows only integer values
+		> float -> It allows integer and decimal values
+		> str -> It allows all values that are enclosed in single or double quotes
+		> All data structures like list,tuple,set and dictionary
+
+	=> Input Formatting:
+	====================
+		> By default it stores the string data type values that is accessed from the user
+		> It will displays the content of a text and it will reads the value from user
+
+	=> Output Formatting:
+	=====================
+		> ,
+		> %
+		> .format => https://pyformat.info ** for brief examples on the output formatting
+
+	=> Type Casting:
+	================
+		-> To change the datatype of a value from one data type to another data type
+		> int()
+		> float()
+		> str()
+		> All data structures [list,tuple,set and dictionary]
