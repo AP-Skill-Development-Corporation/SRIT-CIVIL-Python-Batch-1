@@ -6,3 +6,9 @@ Civil 2nd years Batch-1
   - Python and pip download,installation,version check
   - Different ways to execute a python program
   - Jupyter Notebook Installation and running
+
+## Day-02(25-01-2022):
+  - Literatrate Programming
+  - Jupyter notebook brief explanation
+  - input and output formatting
+  - Data types,type() and typecasting 
