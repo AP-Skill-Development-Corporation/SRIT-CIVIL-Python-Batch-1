@@ -8,7 +8,10 @@ Civil 2nd years Batch-1
   - Jupyter Notebook Installation and running
 
 ## Day-02(25-01-2022):
-  - Literatrate Programming
+  - Literate Programming
   - Jupyter notebook brief explanation
-  - input and output formatting
+  - Input and output formatting
   - Data types,type() and typecasting 
+
+## Day-03(27-01-2022):
+  - Conditional Statements with sample examples on each
