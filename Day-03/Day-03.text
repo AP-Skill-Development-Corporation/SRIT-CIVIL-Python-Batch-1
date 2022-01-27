@@ -1,0 +1,46 @@
+Day-03[27-01-2022]:
+===================
+	Good Morning to All..
+
+	Operators:
+	==========
+		- Arithmetic Operators
+		- Assignment Operators
+		- Logical Operators
+		- Bitwise Operators
+		- Relational Operators
+		- Membership Operators
+		- Identity Operators
+
+	Conditional Statements:
+	=======================
+		- if => 1 case
+			Syntax:
+				if condition:
+					//stmnt
+		- if-else => 2 cases
+			Syntax:
+				if condition:
+					//stmnt-1
+				else:
+					//stmnt-2
+		- nested if
+			Syntax:
+				if condition-1:
+					if condition-2:
+						//stmnt-1
+					else:
+						//stmnt-2
+				else:
+					//stmnt-3
+		- elif
+			Syntax:
+				if condition-1:
+					//stmnt-1
+				elif condition-2:
+					//stmnt-2
+					|		|
+				elif condition-(n-1):
+					//stmnt-(n-1)
+				else:
+					condition-n
