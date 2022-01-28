@@ -15,3 +15,7 @@ Civil 2nd years Batch-1
 
 ## Day-03(27-01-2022):
   - Conditional Statements with sample examples on each
+
+## Day-04(28-01-2022):
+  - Control Statements
+  - Practiced some hackerrank problems
