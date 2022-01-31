@@ -19,3 +19,7 @@ Civil 2nd years Batch-1
 ## Day-04(28-01-2022):
   - Control Statements
   - Practiced some hackerrank problems
+
+## Day-05(29-01-2022):
+  - Inner loops
+  - All Data structures with sample examples on each method
